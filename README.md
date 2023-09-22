@@ -197,5 +197,3 @@ optional arguments:
 ## Disclaimer
 
 This software is for educational purposes only. USE THE SOFTWARE AT YOUR OWN RISK. THE AUTHORS AND ALL AFFILIATES ASSUME NO RESPONSIBILITY FOR YOUR TRADING RESULTS. Do not risk money which you are afraid to lose. There might be bugs in the code - this software DOES NOT come with ANY warranty.
-#   S t o c k p o r t - P r e d i c t i v e - S e n t i m e n t - A n a l y s i s  
- 
